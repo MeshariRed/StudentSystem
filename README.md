@@ -36,11 +36,8 @@ The Student class has four attributes: name, ID, grade, and address.
 2 - StudentSystem: class has four methods
 <br>
 - add_student()
-<br>
 - list_students()
-<br>
 - find_student()
-<br>
 - remove_student()
 
 
